@@ -7,6 +7,6 @@ public class HomeWork4 {
         Thread t3 = new Thread(new ABC('C','A'));
         t1.start();
         t2.start();
-        t3.start();
+        t3.start();//something
     }
 }
